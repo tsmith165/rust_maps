@@ -1,7 +1,0 @@
-- Hi, due to the bradley apc path not being able to be saved in the prefab files,
-you're gonna have to add it manually - make sure you add interest points, as that's
-where bradley will make a stop (Always have more than 1 interest point, as having only 1 will cause errors)
-
-=======================
-If you need help you can contact me on my discord server: discord.gg/TJxwpKT2Ge
-- I also post screenshots & announce upcoming maps in there ^
