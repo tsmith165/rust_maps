@@ -3,6 +3,10 @@
         "custom_1": {
             "rust_maps_url": "https://rustmaps.com/map/dcdb3f8a89f2440baf9bf3ef7694ce28",
             "github_url": "https://github.com/tsmith165/rust_maps/raw/refs/heads/main/procedural/3500-custom_1-1.map"
+        },
+        "custom_2": {
+            "rust_maps_url": "https://rustmaps.com/map/1144119515a644d6b2902bda58e5f028",
+            "github_url": "https://github.com/tsmith165/rust_maps/raw/refs/heads/main/procedural/3500-custom_2-1.map"
         }
     }
 }
