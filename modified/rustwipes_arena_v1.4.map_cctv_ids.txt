@@ -1,0 +1,6 @@
+ID: militarycamp - Location: (1381.12, 12.79, -545.33)
+ID: COBALT4337 - Location: (-1033.45, 23.20, -249.48)
+ID: COBALT1059 - Location: (-1053.34, 21.34, -246.17)
+ID: assaulta1 - Location: (-1309.71, 22.29, -527.33)
+ID: assaulta2 - Location: (-1323.59, 20.44, -512.70)
+ID: b1 - Location: (-498.26, 23.06, 991.26)
